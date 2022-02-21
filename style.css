@@ -256,8 +256,8 @@ footer{
 	height: 400px;
 	/* background: #101010;
 	 */
-	 /* background-color: black; */
-	 background-image: url(/watercolour-world-map-soft-colors.jpg);
+     background-color: black;
+
 	 /* background-position: center; */
 	 background-size: cover;
 	display: flex;
